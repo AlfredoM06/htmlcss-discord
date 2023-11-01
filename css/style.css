@@ -3,3 +3,15 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+ul {
+    list-style: none;
+}
+
+.horizontal-li {  
+     display: inline-block;   
+     margin-right: 40px; /* add spacing between items */ 
+     color: white;
+     
+}
+
